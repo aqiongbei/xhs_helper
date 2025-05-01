@@ -6,4 +6,4 @@
 拓展小红书创作服务平台的功能，增加了小红书限流检测、笔记发布模版、历史编辑记录、图片预览、数据统计、测试笔记等炒鸡好用功能
 
 # 安装地址
-https://chromewebstore.google.com/detail/ffnbpgbalbkfnjbonkccjkaikmfblimb?utm_source=item-share-cb
+[Chrome 应用商店「小红助手-小红书限流检测工具」](https://chromewebstore.google.com/detail/ffnbpgbalbkfnjbonkccjkaikmfblimb?utm_source=item-share-cb)
